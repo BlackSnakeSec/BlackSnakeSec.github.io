@@ -19,7 +19,7 @@ defaults:
 #description: Stylish Jekyll Theme
 author:
   name: Black Snake
-  #email: dbyll@ismaildemirbilek.com
+  email: jhoncastillofx@gmail.com
   github: BlackSnakeSec
   instagram: jhoncastillofx
   #pinterest: asd123
@@ -27,7 +27,7 @@ author:
   #bio: 
   #email_md5: ""
 
-rss_path: feed.xml
+#rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
