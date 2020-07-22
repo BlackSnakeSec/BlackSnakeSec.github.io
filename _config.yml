@@ -14,17 +14,17 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Sudo yout life
+      title: Sudo your life!
 
-description: Stylish Jekyll Theme
+#description: Stylish Jekyll Theme
 author:
   name: Black Snake
   #email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
+  github: BlackSnakeSec
+  instagram: jhoncastillofx
   #pinterest: asd123
   #linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  #bio: 
   #email_md5: ""
 
 rss_path: feed.xml
